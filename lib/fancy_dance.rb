@@ -2,7 +2,7 @@ module FancyDance
   module InstanceMethods 
     
     def twirl 
-      "I'm twirling"
+      "I'm twirling!"
     end 
     
     def jump 
@@ -10,7 +10,7 @@ module FancyDance
     end 
     
     def pirouette 
-      "I'm doing a pirouette"
+      "I'm doing a pirouette."
     end 
     
     def take_a_bow 
